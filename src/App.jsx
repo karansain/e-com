@@ -46,6 +46,7 @@ function App() {
               <AddProduct/>
             </ProtectedRouteForAdmin>
           } />
+          //hsuhsua
           <Route path='/updateproduct' element={
             <ProtectedRouteForAdmin>
               <UpdateProduct/>
